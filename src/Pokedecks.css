@@ -1,0 +1,16 @@
+.Pokedecks {
+    text-align: center;
+}
+.Pokedecks-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Pokedecks-winner {
+    color: #4caf50;
+}
+
+.Pokedecks-loser {
+    color: red;
+}
